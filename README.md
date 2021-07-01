@@ -1,2 +1,2 @@
 # MigrateLinked
-Copy files including linked files to new location
+Copy files including actual files in shortcut ".lnk" files to new location
